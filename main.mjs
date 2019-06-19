@@ -9,8 +9,8 @@ import {
 
 const teacherSchema = {
     name: {
-        first: 'niko',
-        last: 'nagervadze'
+        first: 'rusudan',
+        last: 'gamishidze'
     },
     image: "qwertyasdf",
     dateOfBirth: '02-05-1998',
